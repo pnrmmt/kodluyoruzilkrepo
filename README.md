@@ -30,7 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Görsel](https://picsum.photos/id/237/200/300)
+![Görsel](https://www.upload.ee/image/14555419/pnr.PNG)
 
 
 
