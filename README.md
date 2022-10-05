@@ -32,5 +32,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![Görsel](https://www.upload.ee/image/14555419/pnr.PNG)
 
-
+gjfjfjfgkgkgf
 
